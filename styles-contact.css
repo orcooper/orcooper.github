@@ -108,6 +108,35 @@ p {
     line-height: 1.6;
     color: #fff;
 }
+    nav{
+		font-family: 'Times New Roman', Times, serif;
+		font-size: 1.2em;
+		width: 400px;
+		margin: 0 auto;
+		border: dashed pink;
+		border-width: 3px 0;
+		text-align: center;
+		margin-top: 2em;
+		}
     
-    
+	nav li{
+		display:inline;
+		}
+	
+	nav a{
+		display: inline-block;
+		padding: 10px;
+		}
+	
+	a{
+		color: cadetblue;
+		text-decoration: none;
+		font-weight: bold;
+	}
+
+	a:hover{
+		color: black;
+		background: lavenderblush;
+
+	}
 
