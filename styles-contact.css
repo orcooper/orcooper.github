@@ -72,7 +72,7 @@ html, body {
 	padding: 2%;
     margin: 100px auto;
  	background: rgb(216, 221, 191); /*this uses opacity of 35% for the background color*/
-	text-align: left-align;
+	text-align: center;
 	border: 4px rgb(0, 0, 0);
 }
 
@@ -80,26 +80,27 @@ html, body {
 #logo {
     margin-bottom: 16px;
 	border: 3px black;
-	text-align: left;
+	text-align: center;
 }
 
 h1 {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
-	font-family: 'Times New Roman', Times, serif, serif;
-	font-weight: 350;
+	font-family: 'atten new', serif;
+	font-weight: 525;
 	font-style: normal;
-	font-size: 1em;
+	font-size: 1.5em;
     margin: 0px auto 10px auto;
     color: rgb(0, 0, 0);
 }
 
 h2 {
 	 /* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
-	font-size: 1.5em;
+	font-size: 1em;
     line-height: 1.4;
     color: rgb(0, 0, 0);
     padding: 0px 0px;
     margin: 0px auto 25px auto;
+	text-align: left-align;
 }
 
 p {
@@ -107,9 +108,10 @@ p {
 	font-size: 1.2em;
     line-height: 1.6;
     color: rgb(0, 0, 0);
+	text-align: center;
 }
     nav{
-		font-family: 'Times New Roman', Times, serif;
+		font-family: 'atten new', serif;
 		font-size: 1.2em;
 		width: 400px;
 		margin: 0 auto;
