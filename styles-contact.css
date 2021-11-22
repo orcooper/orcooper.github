@@ -85,7 +85,7 @@ html, body {
 
 h1 {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
-	font-family: fairplex-narrow, serif;
+	font-family: Georgia, 'Times New Roman', Times, serif, serif;
 	font-weight: 700;
 	font-style: normal;
 	font-size: 2em;
