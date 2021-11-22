@@ -86,9 +86,9 @@ html, body {
 h1 {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
 	font-family: Georgia, 'Times New Roman', Times, serif, serif;
-	font-weight: 700;
+	font-weight: 525;
 	font-style: normal;
-	font-size: 2em;
+	font-size: 1.5em;
     margin: 0px auto 10px auto;
     color: rgb(0, 0, 0);
 }
@@ -129,14 +129,14 @@ p {
 		}
 	
 	a{
-		color: rgb(157, 197, 82);
+		color: rgb(127, 160, 65);
 		text-decoration: none;
 		font-weight: bold;
 	}
 
 	a:hover{
-		color: black;
-		background: lavenderblush;
+		color: rgb(255, 255, 255);
+		background: rgb(82, 119, 22);
 
 	}
 
