@@ -72,7 +72,7 @@ html, body {
 	padding: 2%;
     margin: 100px auto;
  	background: rgb(216, 221, 191); /*this uses opacity of 35% for the background color*/
-	text-align: center;
+	text-align: left-align;
 	border: 4px rgb(0, 0, 0);
 }
 
