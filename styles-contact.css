@@ -90,16 +90,17 @@ html, body {
 h1 {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
 	font-family: 'atten new', serif;
-	font-weight: 1050;
+	font-size: 1.2em;
+	width: 400px;
 	font-style: normal;
-	font-size: 3em;
     margin: 0px auto 10px auto;
     color: rgb(0, 0, 0);
 }
 
 h2 {
 	 /* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
-	font-size: 1.2em;
+	 font-family: 'atten new', serif;
+	 font-size: 1.2em;
     line-height: 1.6;
     color: rgb(0, 0, 0);
     padding: 0px 0px;
@@ -109,7 +110,9 @@ h2 {
 
 p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */		
+	font-family: 'atten new', serif;
 	font-size: 1.2em;
+	font-weight: bold;
     line-height: 1.6;
     color: rgb(0, 0, 0);
 	text-align: center;
