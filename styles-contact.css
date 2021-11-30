@@ -71,11 +71,13 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgb(216, 221, 191); /*this uses opacity of 35% for the background color*/
+ 	background: rgba(165, 152, 98, .50); /*this uses opacity of 35% for the background color*/
 	text-align: center;
 	border: 4px rgb(0, 0, 0);
 }
-
+.left-align {
+	text-align: left;
+}
    
 #logo {
     margin-bottom: 16px;
@@ -115,7 +117,7 @@ p {
 		font-size: 1.2em;
 		width: 400px;
 		margin: 0 auto;
-		border: dashed grey;
+		border: dashed white;
 		border-width: 3px 0;
 		text-align: center;
 		margin-top: 2em;
@@ -138,7 +140,7 @@ p {
 
 	a:hover{
 		color: rgb(255, 255, 255);
-		background: rgb(82, 119, 22);
+		background: rgb(102, 102, 102);
 
 	}
 
